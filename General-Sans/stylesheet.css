@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-ExtralightItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-ExtralightItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-ExtralightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Bold.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Bold.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Extralight.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Extralight.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-BoldItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-BoldItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Semibold.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Semibold.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-MediumItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-MediumItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-SemiboldItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-SemiboldItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-LightItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-LightItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Light.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Light.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Italic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Italic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Regular.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Regular.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'General Sans';
+    src: url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Medium.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Medium.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/General-Sans/GeneralSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

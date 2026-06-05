@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'CityBoys-BookItalic';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-BookItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-BookItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-ExtraBold';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-ExtraBold.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-ExtraBold.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-ExtraBoldItalic';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-ExtraBoldItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-ExtraBoldItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-Heavy';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-Heavy.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Heavy.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-HeavyItalic';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-HeavyItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-HeavyItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-Italic';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-Italic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Italic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-Light';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-Light.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Light.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-LightItalic';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-LightItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-LightItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-Regular';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-Regular.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Regular.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-SemiBold';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-SemiBold.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-SemiBold.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-SemiBoldItalic';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-SemiBoldItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-SemiBoldItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-Bold';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-Bold.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Bold.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-BoldItalic';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-BoldItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-BoldItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CityBoys-Book';
+    src: url('https://projects.apexure.org/fonts/cityboys/CityBoys-Book.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Book.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/cityboys/CityBoys-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

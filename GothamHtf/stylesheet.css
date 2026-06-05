@@ -1,0 +1,209 @@
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldCondensed.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldCondensed.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldCondensed.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldCondensed.svg#GothamHTF-BoldCondensed') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Black.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Black.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Black.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Black.svg#GothamHTF-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Bold.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Bold.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Bold.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Bold.svg#GothamHTF-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BlackItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BlackItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BlackItalic.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BlackItalic.svg#GothamHTF-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookCondensed.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookCondensed.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookCondensed.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookCondensed.svg#GothamHTF-BookCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Medium.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Medium.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Medium.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Medium.svg#GothamHTF-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightItalic.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightItalic.svg#GothamHTF-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Thin.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Thin.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Thin.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Thin.svg#GothamHTF-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Book.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Book.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Book.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Book.svg#GothamHTF-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-ThinItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-ThinItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-ThinItalic.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-ThinItalic.svg#GothamHTF-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Light.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Light.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Light.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Light.svg#GothamHTF-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldItalic.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BoldItalic.svg#GothamHTF-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookItalic.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-BookItalic.svg#GothamHTF-BookItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-MediumCondensed.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-MediumCondensed.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-MediumCondensed.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-MediumCondensed.svg#GothamHTF-MediumCondensed') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightCondensed.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightCondensed.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightCondensed.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-LightCondensed.svg#GothamHTF-LightCondensed') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLight.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLight.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLight.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLight.svg#GothamHTF-XLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLightItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLightItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLightItalic.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-XLightItalic.svg#GothamHTF-XLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Ultra.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Ultra.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Ultra.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-Ultra.svg#GothamHTF-Ultra') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham HTF';
+    src: url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-UltraItalic.woff2') format('woff2'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-UltraItalic.woff') format('woff'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-UltraItalic.ttf') format('truetype'),
+        url('https://projects.apexure.org/fonts/GothamHtf/GothamHTF-UltraItalic.svg#GothamHTF-UltraItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
